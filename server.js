@@ -45,11 +45,6 @@ app.get('/quiz/:id', (request, response) => {
 // Score Array
 app.post('/score', (request, response) => {
     let s = request.body.score;
-    /*
-    let quizid = request.body.quizid;
-    let username = request.body.username;
-    score.push({score: score, quizid: quizid, username: username}]);
-    */
     scores.push(s);
     response.send(`Score: ${s} was added successfully`);
 });
