@@ -1,0 +1,20 @@
+{
+  "name": "imagequiz-serverside",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/econtreras-1/imagequiz-serverside.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/econtreras-1/imagequiz-serverside/issues"
+  },
+  "homepage": "https://github.com/econtreras-1/imagequiz-serverside#readme"
+}
