@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/econtreras-1/imagequiz-serverside/issues"
   },
-  "homepage": "https://github.com/econtreras-1/imagequiz-serverside#readme"
+  "homepage": "https://github.com/econtreras-1/imagequiz-serverside#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
